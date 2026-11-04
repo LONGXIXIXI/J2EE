@@ -60,7 +60,7 @@ public class Demo25 {
 
 
         //notifyAll()⽅法
-        //notify⽅法只是唤醒某⼀个等待线程.使⽤notifyAll⽅法可以⼀次唤醒所有的等待线程
+        //notify⽅法只是唤醒某⼀个等待线程.使⽤notifyAll⽅法可以⼀次唤醒所有的等待线程.
 
     }
 }
