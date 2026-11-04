@@ -53,8 +53,6 @@ public class Demo21 {
         thread1.start();
         thread2.start();
 
-        //在 jconsole 中查看两个线程的状态都是BLOCKED
-
         System.out.println("hello main");
 
     }
