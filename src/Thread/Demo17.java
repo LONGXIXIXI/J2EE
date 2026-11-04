@@ -30,5 +30,6 @@ public class Demo17 {
 
         //预期结果应该是10w
         System.out.println(count);
+        //结果不是10w
     }
 }
