@@ -19,10 +19,10 @@ public class Demo31 {
         Thread.sleep(1000);
 
         //创建一个无数量上限的线程池
-        Executors.newCachedThreadPool();
+        //Executors.newCachedThreadPool();
         //创建一个只包含一个线程的线程池
-        Executors.newSingleThreadScheduledExecutor();
+        //Executors.newSingleThreadScheduledExecutor();
         //创建一个带有定时器功能的线程池
-        Executors.newScheduledThreadPool(10);
+        //Executors.newScheduledThreadPool(10);
     }
 }
