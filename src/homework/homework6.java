@@ -55,6 +55,7 @@ public class homework6 {
 //        }
 //
 //        pool3.shutdown();
+
 //        pool3.awaitTermination(5, TimeUnit.SECONDS);
 
 
