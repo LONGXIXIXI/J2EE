@@ -9,7 +9,7 @@ import java.io.OutputStream;
 
 public class Demo7 {
     public static void main(String[] args) {
-        //默认情况下，使用OutputStream打开文件，就会“清空文件内容”，可以把追加位设置位true
+        //默认情况下，使用OutputStream打开文件，就会“清空文件内容”，可以把追加位设置位true/。
         try (OutputStream outputStream = new FileOutputStream("./hello.txt",true)){
 //            outputStream.write(97);
 //            outputStream.write(98);
