@@ -2,7 +2,7 @@ package io;
 //使用字节流InputStream进行读文件
 //InputStream只是一个抽象类，要使用还需要具体的实现类关于InputStream的实现类有很多，基
 //本可以认为不同的输⼊设备都可以对应⼀个InputStream类，我们现在只关⼼从⽂件中读取，所以使
-//⽤FileInputStream
+//⽤FileInputStream.
 
 import java.io.FileInputStream;
 import java.io.IOException;
